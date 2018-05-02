@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">NearByLocation</string>
+    <string name="google_maps_key">AIzaSyB6bOSMJPThKTF9H5h7FtuUl8TpztsjbIQ</string>
+    <string name="nearby_webservice_key">AIzaSyCHpKE86Yoz41v8H5zXFA0jq0LIzCzSE70</string>
+
+    <string-array name="arrItem">
+    <item>  Select place to search</item>
+    <item>	Accounting	</item>
+    <item>	Airport	</item>
+    <item>	Amusement park	</item>
+    <item>	Aquarium	</item>
+    <item>	Art gallery	</item>
+    <item>	Atm	</item>
+    <item>	Bakery	</item>
+    <item>	Bank	</item>
+    <item>	Bar	</item>
+    <item>	Beauty salon	</item>
+    <item>	Bicycle store	</item>
+    <item>	Book store	</item>
+    <item>	Bowling alley	</item>
+    <item>	Bus station	</item>
+    <item>	Cafe	</item>
+    <item>	Campground	</item>
+    <item>	Car dealer	</item>
+    <item>	Car rental	</item>
+    <item>	Car repair	</item>
+    <item>	Car wash	</item>
+    <item>	Casino	</item>
+    <item>	Cemetery	</item>
+    <item>	Church	</item>
+    <item>	City hall	</item>
+    <item>	Clothing store	</item>
+    <item>	Convenience store	</item>
+    <item>	Courthouse	</item>
+    <item>	Dentist	</item>
+    <item>	Department store	</item>
+    <item>	Doctor	</item>
+    <item>	Electrician	</item>
+    <item>	Electronics store	</item>
+    <item>	Embassy	</item>
+    <item>	Fire station	</item>
+    <item>	Florist	</item>
+    <item>	Funeral home	</item>
+    <item>	Furniture store	</item>
+    <item>	Gas station	</item>
+    <item>	Gym	</item>
+    <item>	Hair care	</item>
+    <item>	Hardware store	</item>
+    <item>	Hindu temple	</item>
+    <item>	Home goods store	</item>
+    <item>	Hospital	</item>
+    <item>	Insurance_agency	</item>
+    <item>	Jewelry store	</item>
+    <item>	Laundry	</item>
+    <item>	Lawyer	</item>
+    <item>	Library	</item>
+    <item>	Liquor store	</item>
+    <item>	Local government office	</item>
+    <item>	Locksmith	</item>
+    <item>	Lodging	</item>
+    <item>	Meal delivery	</item>
+    <item>	Meal takeaway	</item>
+    <item>	Mosque	</item>
+    <item>	Movie rental	</item>
+    <item>	Movie theater	</item>
+    <item>	Moving company	</item>
+    <item>	Museum	</item>
+    <item>	Night club	</item>
+    <item>	Painter	</item>
+    <item>	Park	</item>
+    <item>	Parking	</item>
+    <item>	Pet store	</item>
+    <item>	Pharmacy	</item>
+    <item>	Physiotherapist	</item>
+    <item>	Plumber	</item>
+    <item>	Police	</item>
+    <item>	Post office	</item>
+    <item>	Real estate agency	</item>
+    <item>	Restaurant	</item>
+    <item>	Roofing contractor	</item>
+    <item>	Rv park	</item>
+    <item>	School	</item>
+    <item>	Shoe store	</item>
+    <item>	Shopping mall	</item>
+    <item>	Spa	</item>
+    <item>	Stadium	</item>
+    <item>	Storage	</item>
+    <item>	Store	</item>
+    <item>	Subway station	</item>
+    <item>	Synagogue	</item>
+    <item>	Taxi stand	</item>
+    <item>	Train station	</item>
+    <item>	Transit station	</item>
+    <item>	Travel agency	</item>
+    <item>	University	</item>
+    <item>	Veterinary care	</item>
+    <item>	Zoo	</item>
+</string-array>
+</resources>
